@@ -1,0 +1,7 @@
+{
+    "sketch": "Podomatic.ino",
+    "port": "COM4",
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328"
+}
